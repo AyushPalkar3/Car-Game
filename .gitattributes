@@ -1,1 +1,2 @@
-*.net linguist-detectable=true
+*. .net linguist-detectable=true
+*.java linguist-detectable=true
